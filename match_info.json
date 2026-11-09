@@ -1,0 +1,151 @@
+{
+ "jogo": "FC Porto 4-1 Napoli, Liga dos Campeões 2026/27, ronda 4, 04.11.2026",
+ "fonte": "flashscore.pt (sumário e formações)",
+ "golos": [
+  {
+   "n": 1,
+   "minuto": "11",
+   "equipa": "POR",
+   "marcador": "Bednarek J.",
+   "assistencia": "Veiga G.",
+   "tipo": "open play",
+   "t_gol_video": 112.4,
+   "descricao_verificada": "corner, header"
+  },
+  {
+   "n": 2,
+   "minuto": "43",
+   "equipa": "NAP",
+   "marcador": "McTominay S.",
+   "assistencia": null,
+   "tipo": "open play",
+   "t_gol_video": 248.8,
+   "descricao_verificada": "scramble in the box"
+  },
+  {
+   "n": 3,
+   "minuto": "71",
+   "equipa": "POR",
+   "marcador": "Veiga G.",
+   "assistencia": "Gimenez S.",
+   "tipo": "open play",
+   "t_gol_video": 447.8,
+   "descricao_verificada": "counter-attack, 1v1 with the goalkeeper"
+  },
+  {
+   "n": 4,
+   "minuto": "80",
+   "equipa": "POR",
+   "marcador": "Kiwior J.",
+   "assistencia": "Hwang In-Beom",
+   "tipo": "open play",
+   "t_gol_video": 494.8,
+   "descricao_verificada": "corner, header"
+  },
+  {
+   "n": 5,
+   "minuto": "89",
+   "equipa": "POR",
+   "marcador": "Samu",
+   "assistencia": null,
+   "tipo": "penalty",
+   "t_gol_video": 556.6,
+   "descricao_verificada": "penalty"
+  }
+ ],
+ "stats_flashscore": {
+  "xG": [
+   3.13,
+   1.42
+  ],
+  "posse": [
+   51,
+   49
+  ],
+  "remates": [
+   19,
+   11
+  ],
+  "grandes_oportunidades": [
+   4,
+   2
+  ],
+  "toques_area_adversaria": [
+   29,
+   18
+  ]
+ },
+ "onze_porto": {
+  "99": "Diogo Costa",
+  "20": "Alberto Costa",
+  "5": "Bednarek",
+  "4": "Kiwior",
+  "52": "Martim Fernandes",
+  "8": "Froholdt",
+  "13": "Rosario",
+  "10": "Veiga",
+  "11": "Pepê",
+  "19": "Andre Silva",
+  "17": "Sainz"
+ },
+ "onze_napoli": {
+  "1": "Meret",
+  "31": "Beukema",
+  "13": "Rrahmani",
+  "16": "Marin",
+  "21": "Politano",
+  "99": "Anguissa",
+  "6": "Gilmour",
+  "8": "McTominay",
+  "26": "Vergara",
+  "11": "De Bruyne",
+  "19": "Hojlund"
+ },
+ "elenco": {
+  "POR": {
+   "99": "Diogo Costa",
+   "20": "Alberto Costa",
+   "5": "Bednarek",
+   "4": "Kiwior",
+   "52": "M. Fernandes",
+   "8": "Froholdt",
+   "13": "Rosario",
+   "10": "Veiga",
+   "11": "Pepê",
+   "19": "André Silva",
+   "17": "Sainz",
+   "14": "Cláudio Ramos",
+   "24": "J. Costa",
+   "42": "Fofana",
+   "29": "Gimenez",
+   "16": "Hwang",
+   "74": "F. Moura",
+   "18": "N. Perez",
+   "77": "Pietuszewski",
+   "9": "Samu",
+   "33": "Souza",
+   "22": "Varela",
+   "12": "Zaidu"
+  },
+  "NAP": {
+   "1": "Meret",
+   "31": "Beukema",
+   "13": "Rrahmani",
+   "16": "Marin",
+   "21": "Politano",
+   "99": "Anguissa",
+   "6": "Gilmour",
+   "8": "McTominay",
+   "26": "Vergara",
+   "11": "De Bruyne",
+   "19": "Højlund",
+   "38": "Chiummariello",
+   "14": "Contini",
+   "23": "Giovane",
+   "70": "Lang",
+   "40": "Lieto",
+   "20": "Lucca",
+   "32": "Milinkovic-Savic"
+  }
+ }
+}

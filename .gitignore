@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pt
+*.pkl
+*.log
+.DS_Store
+destaques/
+destaques_out/
+destaques_novo/
+dataset/
+runs/
+runs_pitch/
+painel/data/
+painel/*.mp4
+social/
